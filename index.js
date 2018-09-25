@@ -3,6 +3,7 @@ function theTruth(){
 }
 
 function sayHey(){
+    debugger;
     return "Hey!";
 }
 
